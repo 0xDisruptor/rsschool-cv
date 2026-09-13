@@ -2,7 +2,7 @@
 
 **Front-End Developer**
 
-![SKR](media/SKR.jpg)
+<img width="100" height="100" alt="photo" src="media/SKR.jpg" />
 
 
 ## 1. Contact Information
