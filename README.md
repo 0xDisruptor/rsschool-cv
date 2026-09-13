@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Doniyorbekid1.github.io/rsschool-cv/
+https://0xDisruptor.github.io/rsschool-cv/
